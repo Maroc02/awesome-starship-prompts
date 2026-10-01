@@ -248,3 +248,25 @@ A curated collection of beautiful and functional **Starship** prompts, with scre
 <a href="#prompt-gallery" title="Go Back Up">
   <img src="https://img.shields.io/badge/%E2%86%91-Go_Back_Up-11111b?style=flat&labelColor=1E1E1E&color=1E1E1E" alt="Go Back Up" style="vertical-align: middle;">
 </a>
+
+---
+
+<a id="tools-and-generators"></a>
+
+## 🛠️ Tools & Generators
+
+Useful tools, interactive editors, and preset generators for Starship.
+
+### Starship Studio
+
+**Author:** [Felipe Miranda (felipecm-br)](https://github.com/felipecm-br)
+
+An interactive visual editor and preset generator for Starship prompt configurations. Customize Powerline separators, shading caps, and curated color palettes with real-time preview, interactive terminal state simulation, and two-way TOML synchronization.
+
+- **Web App:** [Starship Studio](https://felipecm-br.github.io/starship-studio/)
+- **Repository:** [felipecm-br/starship-studio](https://github.com/felipecm-br/starship-studio)
+
+<a href="#prompt-gallery" title="Go Back Up">
+  <img src="https://img.shields.io/badge/%E2%86%91-Go_Back_Up-11111b?style=flat&labelColor=1E1E1E&color=1E1E1E" alt="Go Back Up" style="vertical-align: middle;">
+</a>
+
