@@ -248,3 +248,13 @@ A curated collection of beautiful and functional **Starship** prompts, with scre
 <a href="#prompt-gallery" title="Go Back Up">
   <img src="https://img.shields.io/badge/%E2%86%91-Go_Back_Up-11111b?style=flat&labelColor=1E1E1E&color=1E1E1E" alt="Go Back Up" style="vertical-align: middle;">
 </a>
+
+### Brei0x
+
+**Author:** [Brei0x](https://github.com/brei0x)
+
+[![Brei0x](assets/brei0x.png)](https://github.com/brei0x/starship/blob/main/starship.toml)
+
+<a href="#prompt-gallery" title="Go Back Up">
+  <img src="https://img.shields.io/badge/%E2%86%91-Go_Back_Up-11111b?style=flat&labelColor=1E1E1E&color=1E1E1E" alt="Go Back Up" style="vertical-align: middle;">
+</a>
